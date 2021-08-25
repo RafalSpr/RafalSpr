@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RafalSpr
-- 👀 I’m interested in algorithms and programing mostly in Python, C++ and Java
+- 👀 I’m interested in algorithms and programing in Python, C++ and Java
 
 <!---
 RafalSpr/RafalSpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
